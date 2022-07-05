@@ -42,7 +42,6 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-//https://api.thecatapi.com/v1/breeds?attach_breed=2a7ba349-a4ac-4ab6-9e8f-d79901153f3d
 @Composable
 fun MainScreen(){
     val catModelList = remember {
